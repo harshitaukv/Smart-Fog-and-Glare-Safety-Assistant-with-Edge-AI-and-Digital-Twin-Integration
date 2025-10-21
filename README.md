@@ -58,6 +58,3 @@ Future Scope
 * Deployment on Edge AI devices like NVIDIA Jetson Nano or Raspberry Pi.
 * Advanced fog removal algorithms using deep learning (DehazeNet, CycleGAN).
 
-
-
-Would you like me to make this README visually formatted for GitHub (with emojis, sections, and clickable badges like “Open in Colab” or “View Demo”)? I can generate that next.
